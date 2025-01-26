@@ -30,4 +30,4 @@
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![Rafael Cardoso GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelCSL01&show_icons=true&theme=dracula)
+![Rafael Cardoso GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaellcardooso&show_icons=true&theme=dracula)
